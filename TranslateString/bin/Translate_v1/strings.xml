@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name" translatable="false">Cast To TV</string>
+    <string name="guide_connect_same_wifi">Make sure your phone and TV are connected to the same Wi-Fi network</string>
+    <string name="menu_mirror">Screen Mirroring</string>
+    <string name="menu_cast" translatable="false">Cast</string>
+    <string name="menu_audio">Music</string>
+    <string name="menu_google_drive" translatable="false">Google Drive</string>
+    <string name="menu_google_photos" translatable="false">Google Photos</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_website" translatable="false">Websites</string>
+    <string name="photo_online">Photo Online</string>
+    <string name="menu_iptv" translatable="false">IPTV</string>
+
+    <string name="playlist">Playlist</string>
+    <string name="about_us" translatable="false">About</string>
+    <string name="about_des">IPTV Playlist.</string>
+    <string name="rate_this">Rate</string>
+    <string name="share_this">Share</string>
+    <string name="menu_photo">Photo</string>
+    <string name="menu_rating">Rate App</string>
+    <string name="menu_send">Contact Us</string>
+    <string name="menu_share">Share This App</string>
+    <string name="menu_video" translatable="false">Video</string>
+    <string name="menu_youtube" translatable="false">Youtube</string>
+    <string name="miracast" translatable="false">Miracast</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="restore_purchase">Restore Purchases</string>
+    <string name="communicate">Communicate</string>
+    <string name="direct_mirror">Direct Mirror</string>
+    <string name="web_mirror">Web Mirror</string>
+
+    <string name="scan">Scan</string>
+    <string name="start">Start</string>
+    <string name="rate_do_you_like_this_app">Do you like this application?</string>
+    <string name="rate_content_rate_app">Please! Take a moment to rate 5 stars for Cast to TV. Thanks for your support!</string>
+    <string name="rate_very_bad">Very bad</string>
+    <string name="rate_need_some_improvement">Need some improvement</string>
+    <string name="rate_good">Good</string>
+    <string name="rate_great">Great</string>
+    <string name="rate_love_it">Awesome. I love it</string>
+    <string name="rate_title">[Rate Dialog] Cast to TV</string>
+    <string name="toast_rating">You have not yet rated us! Please press the star to evaluate title.</string>
+    <string name="rate_content_feedback">Let us better upgrade the functionality and experience for this application. Thank you very much!</string>
+    <string name="rate_feedback_hint">Suggest us what went wrong and we\'ll work on it</string>
+    <string name="rate_submit">Submit</string>
+    <string name="rate_content_sign" translatable="false">\nVersion Code:</string>
+    <string name="rate_rate">Rate</string>
+    <string name="rate_cancel">Cancel</string>
+    <string name="rate_feedback">Please send feedback to us</string>
+    <string name="thank_share">Thank you for sharing your feedback</string>
+    <string name="thank_review">Thanks for your review</string>
+    <!--Rating 2-->
+    <string name="smile_rating_terrible">Terrible</string>
+    <string name="smile_rating_bad">Bad</string>
+    <string name="smile_rating_okay">Okay</string>
+    <string name="smile_rating_good">Good</string>
+    <string name="smile_rating_great">Great</string>
+    <string name="menu_photo_online">Photo Online</string>
+    <string name="cast_youtube" translatable="false">Youtube</string>
+    <string name="link_error">The link is not in the correct format</string>
+    <string name="pro_version">You have updated to PRO version</string>
+    <string name="title_find_device_dialog">Available devices</string>
+    <string name="not_content">Not content</string>
+    <string name="default_notification_channel_id" translatable="false">68</string>
+    <string name="please_ensure">Please ensure</string>
+    <string name="first_ensure">Please turn off VPN to ensure normal cast.</string>
+    <string name="second_ensure">If your TV cannot be found, please reboot (power reset) it and try again.</string>
+    <string name="third_ensure">Make sure your device is supported.</string>
+    <string name="supported_devices">SUPPORTED DEVICES</string>
+    <string name="help">HELP</string>
+    <string name="feedback">FEEDBACK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="supported_devices_big">SUPPORTED DEVICES</string>
+    <string name="chromecast" translatable="false">Chromecast</string>
+    <string name="chromecast_des" translatable="false">Chromecast , smart TV with in-built</string>
+    <string name="dlna" translatable="false">DLNA</string>
+    <string name="dlna_des" translatable="false">Smart TV with DLNA</string>
+    <string name="xbox" translatable="false">Xbox</string>
+    <string name="xbox_des" translatable="false">XBox One and XBox 360</string>
+    <string name="firetv" translatable="false">Fire TV</string>
+    <string name="firetv_des" translatable="false">Fire TV and Fire Stick</string>
+    <string name="roku" translatable="false">Roku</string>
+    <string name="roku_des" translatable="false">"Roku , Roku TV "</string>
+    <string name="appletv" translatable="false">Apple TV and Airplay</string>
+    <string name="appletv_des" translatable="false">Apple TV and Airplay</string>
+    <string name="webos" translatable="false">LG WebOS</string>
+    <string name="webos_des" translatable="false">WebOS 2 and higher</string>
+    <string name="not_mediaplayer">No media is currently being cast</string>
+    <string name="loading">Loading…</string>
+    <string name="text_cast_to_tivi" translatable="false">Cast to TV</string>
+    <string name="menu_screen_mirroring" translatable="false">Screen Mirroring</string>
+    <string name="connecting">Connect to TV</string>
+    <string name="media_player" translatable="false">Media Player</string>
+    <string name="setting">Setting</string>
+    <string name="share_your_friends">Share your friends</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="feedback_1">Feedback</string>
+    <string name="language">Language</string>
+    <string name="cast_to_tv" translatable="false">Cast To TV</string>
+    <string name="guide_screen_mirroring_1">1. Make sure that your device and TV are connected to the same WIFI network.</string>
+    <string name="guide_screen_mirroring_2">2. Make sure that Miracast Display enabled and supported by your TV model.</string>
+    <string name="guide_screen_mirroring_3">3. Click Start button and Select your TV to begin Screen Mirroring.</string>
+    <string name="how_to_you">How to use?</string>
+    <string name="close">Close</string>
+    <string name="not_support">This function is not supported when casting photo</string>
+    <string name="privacy_policy_link" translatable="false">https://docs.google.com/document/d/1B77benN5_nvce1gK2NhIBH_1p3Vn1ASKs0C6AaYHfsA/edit</string>
+    <string name="mirror_screen" translatable="false">Mirror Screen to TV</string>
+    <string name="cast_video_online">Cast Video Online to TV</string>
+    <string name="trouble_link">The app is having trouble getting the link. Please restart the app</string>
+    <string name="notification_channel_id" translatable="false">66</string>
+    <string name="extract_link">Extracting video link …</string>
+    <string name="buffering">Buffering…</string>
+    <string name="link_not_found">Link not found</string>
+    <string name="no_internet">" No internet connection"</string>
+    <string name="four_ensure">Make sure your phone and TV are connected to the same Wi-Fi network.</string>
+    <string name="speech_prompt">Say something…</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="facebook_app_id" translatable="false">1302614516910862</string>
+    <string name="error_activity_error_occurred_explanation" translatable="false">An unexpected error occurred.\nSorry for the inconvenience.</string>
+    <string name="error_activity_restart_app" translatable="false">Restart app</string>
+    <string name="error_activity_close_app" translatable="false">Close app</string>
+    <string name="error_activity_error_details" translatable="false">Error details</string>
+    <string name="error_activity_error_details_title" translatable="false">Error details</string>
+    <string name="error_activity_error_details_close" translatable="false">Close</string>
+    <string name="error_activity_error_details_copy" translatable="false">Copy to clipboard</string>
+    <string name="error_activity_error_details_copied" translatable="false">Copied to clipboard</string>
+    <string name="error_activity_error_details_clipboard_label" translatable="false">Error information</string>
+    <string name="watch_ad">Watch AD</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade_or_ads">Upgrade or watch ad to continue</string>
+    <string name="search_here">Search here</string>
+    <string name="start_free">Try 3-day for FREE. Then %1$s/year</string>
+    <string name="per_year">/year</string>
+    <string name="premium_upgrade">PREMIUM UPGRADE</string>
+    <string name="unlock_all">Unlock the full-features</string>
+
+    <string name="start_trial">Start Free Trial</string>
+    <string name="monthly">Monthly</string>
+    <string name="life_time">Lifetime</string>
+    <string name="limited_offer">Limited time offer</string>
+    <string name="then">Then</string>
+    <string name="new_version">New version is available</string>
+    <string name="des_new_version">We have improved and added new features. Please update for a better experience</string>
+    <string name="update_now">Update Now</string>
+    <string name="menu_iptv_playlist" translatable="false">IPTV Playlist</string>
+    <string name="hint_iptv" translatable="false">http://www.example.com/file.m3u</string>
+    <string name="add_iptv">Add IPTV link</string>
+    <string name="ok">OK</string>
+    <string name="link_format">Please enter the link in the format .m3u or .m3u8</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="guide_1">Make sure your phone and TV(Or wireless adapter) connect to the same Wifi and turn off VPN</string>
+    <string name="guide_2">Enable the “Miracast Display” function on your TV. (You need to enable it manually on some devices, go to the system settings to check)</string>
+    <string name="guide_3">Click the “START” button, enable the Wireless Display function on your phone and wait for the device searching</string>
+    <string name="guide_4">Successfully Connect</string>
+    <string name="note_iptv">Note: IPTV function works well  on some TV devices.</string>
+    <string name="note_remote">Note: Remote TV function works well  on some TV devices.</string>
+    <string name="cast_to_smart_tv" translatable="false">CAST TO SMART TV</string>
+    <string name="skip">Skip</string>
+    <string name="intro1">TV and Phone must be connected to the same WIFI</string>
+    <string name="intro2">Choose your DEVICE</string>
+    <string name="intro3">Cast any your IMAGE, VIDEO, MUSIC,…</string>
+    <string name="rate">Rate</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="high_quality">High quality</string>
+    <string name="cast_video">Cast video online</string>
+    <string name="privacy_sub">This transaction can only be used on the Android system. Payment is charged via Google Play store at confirmation of purchase. Subscription automatically renews before the end of the trial period, unless canceled before 24 hours, cancellation will take effect after the end of the trial period. You can manage your subscription and turn off auto-renew from your Google Play settings. Subscriptions canceled during the trial period will not be charged. <a href="https://getaglobal.com/terms_of_use.html">Terms of Use</a> and <a href="https://docs.google.com/document/d/1B77benN5_nvce1gK2NhIBH_1p3Vn1ASKs0C6AaYHfsA/edit">Privacy Policy</a></string>
+    <string name="onetime_payment">One-time Payment</string>
+    <string name="continue_sub">Continue</string>
+    <string name="des_mirror">Mirroring from Phone to TV</string>
+    <string name="remote">Remote</string>
+    <string name="empty">Empty</string>
+    <string name="no_network_connection_toast">No internet</string>
+    <string name="menu_remote">Remote TV</string>
+    <string name="remote_tv">Remote TV</string>
+    <string name="contain_ads">This action can contain ads …</string>
+    <string name="loading_ads">Loading Ads…</string>
+    <string name="ad" translatable="false">Ad</string>
+    <string name="coming_soon">coming soon</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="pairing_with_tv">Pairing with TV</string>
+    <string name="pairing_des">Please confirm the connection on your TV</string>
+    <string name="error">Error</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="empty_text">Empty text</string>
+    <string name="no_tv_connect">No TV is connected</string>
+    <string name="power_dialog_title">Power Off</string>
+    <string name="power_dialog_message">Are you sure you want to turn off the device?</string>
+    <string name="selection_language">Selection Language</string>
+    <string name="lag_english">English</string>
+    <string name="lag_portuguese">Portuguese (Brazil)</string>
+    <string name="lag_french">French</string>
+    <string name="lag_spanish">Spanish</string>
+    <string name="lag_arabic">Arabic</string>
+    <string name="lag_russian">Russian</string>
+    <string name="lag_persian">Persian</string>
+    <string name="lag_turkish">Turkish</string>
+    <string name="lag_indonesian">Indonesian</string>
+    <string name="lag_german">German</string>
+    <string name="lag_hindi">Hindi</string>
+    <string name="lag_norwegian">Norwegian</string>
+    <string name="lag_finnish">Finnish</string>
+    <string name="lag_vn">Việt Nam</string>
+    <string name="tv_header">Make sure your phone &amp; TV are connected to the same wifi network</string>
+    <string name="txt_remote">Remote Control For TV</string>
+    <string name="txt_gg_photo">Google Photo</string>
+    <string name="txt_driver">Drive</string>
+    <string name="txt_all_photo">All Photos</string>
+    <string name="txt_all_video">All Video</string>
+    <string name="txt_album_photo">Album Photos</string>
+    <string name="txt_album_video">Album Video</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_stop">Stop</string>
+    <string name="add_queue">Add Queue</string>
+    <string name="queue_list">Queue List</string>
+    <string name="has_your_device_worked_before">Has your device worked before</string>
+    <string name="select_your_device">Select your device</string>
+    <string name="submit">Submit</string>
+    <string name="other_helpful_information">Other helpful information</string>
+    <string name="do_you_like_our_app">Do you like our app?</string>
+    <string name="let_us_know_how_satisfied_you_are_with_the_app">Let us know how satisfied you are with the app</string>
+    <string name="please_leave_a_feedback_to_help_us_improve_product">Please leave a feedback to help us improve product</string>
+    <string name="maybe_later"><u>Maybe later</u></string>
+    <string name="searching_for_devices">Searching for devices...</string>
+    <string name="make_sure_your_phone_cast_device_are_connected_to_the_same_wi_fi"><![CDATA[Make sure your phone & cast device are connected to the same Wi-Fi.]]></string>
+    <string name="search_device_later"><u>Search Device Later</u></string>
+    <string name="available_devices">Available Devices</string>
+    <string name="wifi_is_connect">Wifi is connect</string>
+    <string name="wifi_is_off">Wifi is off</string>
+</resources>

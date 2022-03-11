@@ -1,0 +1,11 @@
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\bin\Debug\TranslateString.exe.config
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\bin\Debug\TranslateString.exe
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\bin\Debug\TranslateString.pdb
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.csproj.AssemblyReference.cache
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.csproj.SuggestedBindingRedirects.cache
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.Form1.resources
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.Properties.Resources.resources
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.csproj.GenerateResource.cache
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.csproj.CoreCompileInputs.cache
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.exe
+E:\iKameSpace\Developer\BackendTeam\Tools\Translate\TranslateString\TranslateString\obj\Debug\TranslateString.pdb
